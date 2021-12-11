@@ -15,6 +15,13 @@ As speaker any mylar speaker can be used.
 How the different components are wired can be taken from the following schematic:
 ![Component wireing](https://raw.githubusercontent.com/webbasedToast/bachelor_project/master/Ausarbeitung/Media/Hardware_Pinout.png)
 
+# Usage #
+To use the set-up project to conduct audio recordings the following steps are needed:
+ 1. Add your WiFi credentials to the arduino sketch using the parameters ```c++ ssid``` and ```c++ password``` in the [main sketch](https://github.com/webbasedToast/bachelor_thesis/blob/main/recording_controller/recording_controller.ino)
+ 2. Flash the sketch to the micro controller
+ 3. Connect to the IP-address shown on the controllers display using a web browser
+ 4. Play and record audio audio files using the buttons of the shown web site
+
 # Acknowledgements #
 Credit for the MelodyPlayer package goes to Fabiano Riccardi.
 The repository for the library can be reached [here](https://github.com/fabiuz7/melody-player-arduino)
