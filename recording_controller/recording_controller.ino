@@ -23,8 +23,8 @@
 
 // Params for the WiFi Connection
 WiFiServer server(80); // Opens a Server on Port 80
-const char* ssid = "HCI Lab 2.4GHz";
-const char* password = "wearedoingresearch.";
+const char* ssid = "";
+const char* password = "";
 String header; // Stores the HTTP Request
 
 // Timer variables used for client timeouts defined in Millisecs
