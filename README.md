@@ -17,7 +17,7 @@ How the different components are wired can be taken from the following schematic
 
 # Usage #
 To use the set-up project to conduct audio recordings the following steps are needed:
- 1. Add your WiFi credentials to the arduino sketch using the parameters ```c++ ssid``` and ```c++ password``` in the [main sketch](https://github.com/webbasedToast/bachelor_thesis/blob/main/recording_controller/recording_controller.ino)
+ 1. Add your WiFi credentials to the arduino sketch using the parameters ```ssid``` and ```password``` in the [main sketch](https://github.com/webbasedToast/bachelor_thesis/blob/main/recording_controller/recording_controller.ino)
  2. Flash the sketch to the micro controller
  3. Connect to the IP-address shown on the controllers display using a web browser
  4. Play and record audio audio files using the buttons of the shown web site
