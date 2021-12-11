@@ -13,7 +13,7 @@ As speaker any mylar speaker can be used.
 
 # Wiring of the Components #
 How the different components are wired can be taken from the following schematic:
-![Component wireing](https://raw.githubusercontent.com/webbasedToast/bachelor_project/master/Ausarbeitung/Media/Hardware_Pinout.png)
+![Component wireing](https://raw.githubusercontent.com/webbasedToast/bachelor_project/master/Media/Hardware_Pinout.png)
 
 # Usage #
 To use the set-up project to conduct audio recordings the following steps are needed:
