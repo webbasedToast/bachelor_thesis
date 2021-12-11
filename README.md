@@ -24,4 +24,4 @@ To use the set-up project to conduct audio recordings the following steps are ne
 
 # Acknowledgements #
 Credit for the MelodyPlayer package goes to Fabiano Riccardi.
-The repository for the library can be reached [here](https://github.com/fabiuz7/melody-player-arduino)
+The repository for the library can be reached [here](https://github.com/fabiuz7/melody-player-arduino).
